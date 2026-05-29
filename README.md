@@ -18,3 +18,4 @@ A lightweight, LAN-based Minecraft Bedrock server connector for consoles. Allows
 - 🚫 No accounts required
 - 🚫 No data collection of any kind
 - ✅ Fully open source — see exactly what runs on your machine
+REQUIRES THAT THE DEVICE YOU ARE USING TO BROADCAST MUST BE ON THE SAME NETWORK KEEP IT ON WHILE YOU PLAY
